@@ -1,6 +1,8 @@
 # Intro to Django
 
-## Links & Resources
+## Author
+
+Davee Sok
 
 ### Collaborators
 
